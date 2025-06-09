@@ -1,4 +1,4 @@
-# IS4310-Modbus-Arduino-Sensor-Example1035
+# IS4310 Modbus Arduino Sensor Example
 
 ## Description
 
