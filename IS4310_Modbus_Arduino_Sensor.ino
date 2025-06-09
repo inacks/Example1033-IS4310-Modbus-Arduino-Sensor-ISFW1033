@@ -1,8 +1,8 @@
 /* 
  * Program Title:
- * IS4310_Modbus_Arduino_Sensor
+ * IS4310 Modbus Arduino Sensor Example
  * 
- * Internal reference for this example: ISFW1035
+ * Internal reference for this example: ISXMPL4310ex6
  *
  * Description:
  * This example demonstrates how to use the IS4310 Modbus RTU Slave Chip with the 
