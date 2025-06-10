@@ -23,6 +23,6 @@ You can read the Holding Register from your PC using a Modbus master client like
 
 ---
 
-For more information, check the [product page](https://www.inacks.com/is4310).
+Check the [product page](https://www.inacks.com/is4310).
 
-www.inacks.com
+ℹ️ For more information: [www.inacks.com](https://www.inacks.com)
